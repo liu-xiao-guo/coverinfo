@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>audios/gohome.mp3</file>
+        <file>image/add.png</file>
+        <file>image/clear.png</file>
+        <file>image/close.png</file>
+        <file>image/default_art.jpg</file>
+        <file>image/delete.png</file>
+        <file>image/down.png</file>
+        <file>image/dsk_lrc.png</file>
+        <file>image/left.png</file>
+        <file>image/list.png</file>
+        <file>image/logo.ico</file>
+        <file>image/logo.png</file>
+        <file>image/max.png</file>
+        <file>image/mdw.png</file>
+        <file>image/min.png</file>
+        <file>image/next.png</file>
+        <file>image/Once.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/playIcon.png</file>
+        <file>image/play_once.png</file>
+        <file>image/previous.png</file>
+        <file>image/random.png</file>
+        <file>image/right.png</file>
+        <file>image/search.png</file>
+        <file>image/sequence.png</file>
+        <file>image/settings.png</file>
+        <file>image/shuffle.png</file>
+        <file>image/skin.png</file>
+        <file>image/skin2.png</file>
+        <file>image/skin3.png</file>
+        <file>image/skin4.png</file>
+        <file>image/slider-point.png</file>
+        <file>image/theme.png</file>
+        <file>image/title.png</file>
+        <file>image/up.png</file>
+        <file>image/update.png</file>
+        <file>image/volume-high-icon.png</file>
+        <file>image/volume-low-icon.png</file>
+        <file>image/volume-medium-icon.png</file>
+        <file>image/volume-mute-icon.png</file>
+    </qresource>
+</RCC>
